@@ -16,23 +16,23 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-either": "^5.0.0",
-    "purescript-foldable-traversable": "^5.0.0",
-    "purescript-identity": "^5.0.0",
-    "purescript-maybe": "^5.0.0",
-    "purescript-newtype": "^4.0.0",
-    "purescript-nonempty": "^6.0.0",
-    "purescript-prelude": "^5.0.0",
-    "purescript-tailrec": "^5.0.0",
-    "purescript-tuples": "^6.0.0",
-    "purescript-unfoldable": "^5.0.0"
+    "purescript-either": "https://github.com/working-group-purescript-es/purescript-either.git#es-modules",
+    "purescript-foldable-traversable": "https://github.com/working-group-purescript-es/purescript-foldable-traversable.git#es-modules",
+    "purescript-identity": "https://github.com/working-group-purescript-es/purescript-identity.git#es-modules",
+    "purescript-maybe": "https://github.com/working-group-purescript-es/purescript-maybe.git#es-modules",
+    "purescript-newtype": "https://github.com/working-group-purescript-es/purescript-newtype.git#es-modules",
+    "purescript-nonempty": "https://github.com/working-group-purescript-es/purescript-nonempty.git#es-modules",
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules",
+    "purescript-tailrec": "https://github.com/working-group-purescript-es/purescript-tailrec.git#es-modules",
+    "purescript-tuples": "https://github.com/working-group-purescript-es/purescript-tuples.git#es-modules",
+    "purescript-unfoldable": "https://github.com/working-group-purescript-es/purescript-unfoldable.git#es-modules"
   },
   "devDependencies": {
-    "purescript-arrays": "^6.0.0",
-    "purescript-assert": "^5.0.0",
-    "purescript-console": "^5.0.0",
-    "purescript-lcg": "^3.0.0",
-    "purescript-math": "^3.0.0",
-    "purescript-transformers": "^5.0.0"
+    "purescript-arrays": "https://github.com/working-group-purescript-es/purescript-arrays.git#es-modules",
+    "purescript-assert": "https://github.com/working-group-purescript-es/purescript-assert.git#es-modules",
+    "purescript-console": "https://github.com/working-group-purescript-es/purescript-console.git#es-modules",
+    "purescript-lcg": "https://github.com/working-group-purescript-es/purescript-lcg.git#es-modules",
+    "purescript-math": "https://github.com/working-group-purescript-es/purescript-math.git#es-modules",
+    "purescript-transformers": "https://github.com/working-group-purescript-es/purescript-transformers.git#es-modules"
   }
 }
